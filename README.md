@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuriy Kirichenko</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
-<img align="center" alt="Programmer" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirichenkoyv&label=Profile%20views&color=3f8d41&style=flat" alt="kirichenkoyv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirichenkoyv" alt="kirichenkoyv" /></a> </p>
+<h3 align="center">A frontend developer from Russia!</h3>
+<img align="center" alt="Programmer" width="800" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
 - 🌱 I’m currently learning **React Navive.**
 
@@ -16,6 +13,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/kirichenkoyv/](https://www.linkedin.com/in/kirichenkoyv/)
 
 - ⚡ Fun fact **I know I'm funny.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirichenkoyv&label=Profile%20views&color=3f8d41&style=flat" alt="kirichenkoyv" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirichenkoyv&show_icons=true&locale=en" alt="kirichenkoyv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirichenkoyv&" alt="kirichenkoyv" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirichenkoyv" alt="kirichenkoyv" /></a> </p>
