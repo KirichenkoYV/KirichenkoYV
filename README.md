@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuriy Kirichenko</h1>
 <h3 align="center">A frontend developer from Russia!</h3>
-<img align="center" alt="Programmer" width="800" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
+<img align="center" alt="Programmer" width="700" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
 - 🌱 I’m currently learning **React Navive.**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kirichenkoyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirichenkoyv" height="30" width="40" /></a>
 <a href="https://instagram.com/y.v.kirichenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.v.kirichenko" height="30" width="40" /></a>
-<a href="https://t.me/kirichenkoYV" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://ouch-cdn2.icons8.com/KDWSUwPNbeZaxOYggiW8VmQJqy7p2cIN_g0lq-Ywo34/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTg1/L2I5MDg2ZjUyLTRi/NWMtNDYyZC1iMTli/LTk5Y2Q0NGZiYjI4/Yi5wbmc.png)" alt="y.v.kirichenko" height="30" width="40" /></a>
+<a href="https://t.me/kirichenkoYV" target="blank"><img align="center" src="https://www.svgrepo.com/show/299513/telegram.svg" alt="y.v.kirichenko" height="30" width="40" /></a>
 </p>
 
 
