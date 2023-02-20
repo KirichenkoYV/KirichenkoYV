@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuriy Kirichenko</h1>
 <h3 align="center">A frontend developer from Russia!</h3>
-<img align="center" alt="Programmer" width="700" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
+<img align="right" alt="Programmer" width="700" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
 - 🌱 I’m currently learning **React Navive.**
 
